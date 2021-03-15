@@ -4,5 +4,9 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Lohkrii&show_icons=true&include_all_commits=true&theme=graywhite)style="max-width:100%;" height="165px" align="middle"] (https://github.com/Lohkrii/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohkrii&theme=graywhite)](https://github.com/Lohkrii/github-readme-stats)
+<a href="https://github.com/Lohkrii/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lohkrii&show_icons=true&include_all_commits=true&theme=graywhite&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Lohkrii/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lohkrii&theme=graywhite&repo=convoychat" />
+</a>
