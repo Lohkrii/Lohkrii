@@ -5,4 +5,4 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Lohkrii&show_icons=true&include_all_commits=true&theme=graywhite)](https://github.com/Lohkrii/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohkrii&layout=compact)](https://github.com/Lohkrii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lohkrii&theme=graywhite)](https://github.com/Lohkrii/github-readme-stats)
