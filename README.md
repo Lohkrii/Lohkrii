@@ -5,7 +5,7 @@
 
 ## Some of my Github Stats
 <div>
-<img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii width="100%"/>
+<img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii style="max-width:100%;" width="100%"/>
 </div>
 
 <a><img img align="center" alt="Lohkrii's Stats" src="https://github-readme-stats.vercel.app/api?username=Lohkrii&show_icons=true&theme=graywhite&hide=stars" style="max-width:100%;" height="165px" align="middle" />
