@@ -6,7 +6,7 @@
 </div>
 
 ## Some of my Github Stats
-<p align="center">
+<p align="left">
 <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii />
 </p>
 
