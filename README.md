@@ -4,7 +4,7 @@
 <a target="_blank" rel="noopener noreferrer" href="resources/sn10-starship-landing.gif"><img src="resources/sn10-starship-landing.gif" alt="SN10 Landing, 2 angles" style="max-width:100%;" width="auto" height="275px" justify-content="center"></a>
 
 ## Some of my Github Stats
-<div justify-content="center">
+<div text-align="center" display="block">
 <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii />
 </div>
 
