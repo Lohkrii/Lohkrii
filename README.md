@@ -4,9 +4,9 @@
 [![Github Badge](https://img.shields.io/badge/-Lohkrii-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Lohkrii/)](https://www.github.com/Lohkrii/)
 [![Twitter Badge](https://img.shields.io/badge/-Lohkrii-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Lohkrii/)](https://www.twitter.com/Lohkrii/)
 [![Resume Badge](https://badgen.net/badge/My/Resume/red?icon=atom)](https://drive.google.com/file/d/1qSgdTrErKfDXvL6NGVu5wfzLMYb9P0OL/view?usp=sharing)
-<p>
+<dir>
 <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii />
-</p>
+</dir>
 <p align='left'>Currently a Student at Holberton School, Aspiring to be a Machine learning engineer. Interested in A.I, Quatum Machine Learning, Deep Learning, neuro-implant software tech and space exploration enthusiast.</p>
 ## Some of my Github Stats
 <a><img img align="center" alt="Lohkrii's Stats" src="https://github-readme-stats.vercel.app/api?username=Lohkrii&show_icons=true&theme=graywhite&hide=stars" style="max-width:100%;" height="165px" align="middle" />
