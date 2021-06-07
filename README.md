@@ -9,9 +9,9 @@
 <dir>
 <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii />
 </dir>
-<dir>
-<a><img img align="center" alt="Lohkrii's Stats" src="https://github-readme-stats.vercel.app/api?username=Lohkrii&show_icons=true&theme=graywhite&hide=stars" style="max-width:100%;" height="165px" align="middle" />
-</a><a><img img align="flex" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohkrii&layout=compact&hide=perl&theme=graywhite" style="max-width:100%;" height="165px" align="middle" /></a>
+<dir align="flex">
+<a><img alt="Lohkrii's Stats" src="https://github-readme-stats.vercel.app/api?username=Lohkrii&show_icons=true&theme=graywhite&hide=stars" style="max-width:100%;" height="165px" align="middle" />
+</a><a><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohkrii&layout=compact&hide=perl&theme=graywhite" style="max-width:100%;" height="165px" align="middle" /></a>
 </div>
 <div text-align="center" justify-content="center">
 <a target="_blank" rel="noopener noreferrer" href="resources/sn10-starship-landing.gif"><img src="resources/sn10-starship-landing.gif" alt="SN10 Landing, 2 angles" style="max-width:100%;" width="auto"></a>
