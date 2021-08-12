@@ -2,10 +2,12 @@
 
 sudo apt-get install curl
 
-curl -LSso nvim.appimage https://github.com/neovim/neovim/releases/download/v0.4.4/nvim.appimage
-sudo cp nvim.appimage /usr/local/bin/nvim
-sudo chmod +x /usr/local/bin/nvim
-
+#curl -LSso nvim.appimage https://github.com/neovim/neovim/releases/download/v0.4.4/nvim.appimage
+#sudo cp nvim.appimage /usr/local/bin/nvim
+#sudo chmod +x /usr/local/bin/nvim
+sudo add-apt-repository -y ppa:neovim-ppa/unstable
+sudo apt-get update -y
+sudo apt-get install -y neovim
 
 
 sudo apt-get install git
