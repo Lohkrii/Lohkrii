@@ -1,0 +1,11 @@
+# Makes the terminal nice on the eyes
+[color]
+	ui = true
+
+[core]
+	editor = nvim
+[help]
+	autoCorrect = 20
+
+[push]
+	default = current
