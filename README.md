@@ -6,6 +6,16 @@
 [![Resume Badge](https://badgen.net/badge/My/Resume/red?icon=atom)](https://drive.google.com/file/d/1qSgdTrErKfDXvL6NGVu5wfzLMYb9P0OL/view?usp=sharing)
 
 <p align='left'>Graduate student of Holberton School Program, Aspiring to be a Machine learning engineer. Interested in A.I, ML, neuro-implant software tech and space exploration enthusiast.</p>
+## Programming Languages:
+* C#
+* C
+* Poweshell
+* SQL
+* TSQL
+* NoSQL
+* Python
+* Javascript
+
 <div>
 <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii />
 </div>
