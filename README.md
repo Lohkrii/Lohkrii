@@ -17,6 +17,12 @@
   <li>Javascript</li>
 </ul>
 
+<h3>Operating Systems:</h3>
+<ul>
+  <li>Ubuntu/Linux or Debian Variants</li>
+  <li>Windows</li>
+</ul>
+
 <div>
 <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii />
 </div>
