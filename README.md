@@ -7,14 +7,15 @@
 
 <p align='left'>Graduate student of Holberton School Program, Aspiring to be a Machine learning engineer. Interested in A.I, ML, neuro-implant software tech and space exploration enthusiast.</p>
 ## Programming Languages:
-* C#
-* C
-* Poweshell
-* SQL
-* TSQL
-* NoSQL
-* Python
-* Javascript
+<ul>
+  <li>C#</li>
+  <li>C</li>
+  <li>Powershell</li>
+  <li>Bash</li>
+  <li>SQL, TSQL, CosmosDb(Light expirience)</li>
+  <li>Python</li>
+  <li>Javascript</li>
+</ul>
 
 <div>
 <img src=https://komarev.com/ghpvc/?username=Lohkrii alt=Lohkrii />
