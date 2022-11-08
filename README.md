@@ -19,7 +19,7 @@
 
 <h3>Operating Systems:</h3>
 <ul>
-  <li>Ubuntu/Linux or Debian Variants</li>
+  <li>Ubuntu/Linux or Debian Variants, and Arch distros</li>
   <li>Windows</li>
 </ul>
 
